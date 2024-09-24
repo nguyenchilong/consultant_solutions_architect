@@ -11,5 +11,5 @@ The repo for keep all diagrams, flowcharts, etc about DevOps, Solutions, System,
 # Contact
 Name: Long Nguyen \
 Phone: +84 76 899 4959 \
-Email: longnc@lnchub.com \
+Email: nguyenchilong90@gmail.com \
 Skype: nguyenchilongphp
